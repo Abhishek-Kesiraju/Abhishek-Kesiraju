@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek-Kesiraju
 - 👀 I’m interested in App Development, Software Engineering, Cyber Security and DevOps practices
-- 🌱 I’m currently pursuing Master of Applied Computing at the University of Windsor
-- 💞️ I’m looking to collaborate on learning how to develop apps, blockchain, Cryptocurrency and Financial knowledge.
+- 🌱 I’m Master of Applied Computing grad at the University of Windsor
+- 💞️ I’m looking to collaborate on learning how to develop apps, blockchain, Cryptocurrency and Financial literacy.
 - 📫 You can reach me at kesiraj@uwindsor.ca or through my Instagram - abhishek_kesiraju
 
 <!---
